@@ -8,11 +8,11 @@ I have experience with both front­end and back­end as a Javascript & Python de
 
 ## TECHNICAL SKILLS
 
-Front-End | React, React Hooks, TypeScript, DOM manipulation, Websockets
-Programming | Python 3, JavaScript ES6+, SQL, HTML5, CSS
-System Design | Monoliths, Microservices, Domain-driven design, Message passing, Event sourcing
-Back-End | Django 4, PostgreSQL, Apache Kafka, RabbitMQ
-Developer Tools | Git, Docker
+* Front-End | React, React Hooks, TypeScript, DOM manipulation, Websockets
+* Programming | Python 3, JavaScript ES6+, SQL, HTML5, CSS
+* System Design | Monoliths, Microservices, Domain-driven design, Message passing, Event sourcing
+* Back-End | Django 4, PostgreSQL, Apache Kafka, RabbitMQ
+* Developer Tools | Git, Docker
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
