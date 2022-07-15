@@ -1,4 +1,4 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
 
 I am Cise Babatasi located at San Francisco, CA.
 
@@ -6,7 +6,7 @@ I am Cise Babatasi located at San Francisco, CA.
 
 I have experience with both front­end and back­end as a Javascript & Python developer. I have built several applications that utilize the full stack, as well as other front-end libraries such as React.
 
-## TECHNICAL SKILLS
+### Technical Skills
 
 * Front-End | React, React Hooks, TypeScript, DOM manipulation, Websockets
 * Programming | Python 3, JavaScript ES6+, SQL, HTML5, CSS
