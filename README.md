@@ -4,7 +4,7 @@ I am Cise Babatasi located at San Francisco, CA.
 
 ### What I'm focusing on 👩‍💻
 
-I have experience with both front­end and back­end as a Javascript & Python developer. I have built several applications that utilize the full stack, as well as other front-end libraries such as React.
+I am a full-stack engineer. I have experience with both front­end and back­end as a Javascript & Python developer. I have built several applications that utilize the full stack, as well as other front-end libraries such as React.
 
 ### Technical Skills
 
