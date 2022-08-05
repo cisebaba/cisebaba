@@ -6,6 +6,14 @@ I am Cise Babatasi located at San Francisco, CA.
 
 I am a full-stack engineer. I have experience with both front­end and back­end as a Javascript & Python developer. I have built several applications that utilize the full stack, as well as other front-end libraries such as React.
 
+### Projects
+- [Ourspace](https://github.com/cisebaba/ourspace)
+  * Fullstack web app for professional networking platform.
+- [CarCar](https://github.com/cisebaba/carcar)
+  * Fullstack web app for auto sales and service. 
+- [Checkify](https://github.com/cisebaba/checkify)
+  * Fullstack web app to manage company’s to-do lists.
+  
 ### Technical Skills
 
 * Front-End | React, React Hooks, TypeScript, DOM manipulation, Websockets
