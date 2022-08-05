@@ -13,7 +13,7 @@ I am a full-stack engineer. I have experience with both front­end and back­end
   * Fullstack web app for auto sales and service. 
 - [Checkify](https://github.com/cisebaba/checkify)
   * Fullstack web app to manage company’s to-do lists.
- - [KetoBake&Bowl](https://ketobakeandbowl.com/)
+- [KetoBake&Bowl](https://ketobakeandbowl.com/)
   * Designed company website with Shopify CMS including UI and UX planning and HTML and CSS implementation.
   
 ### Technical Skills
