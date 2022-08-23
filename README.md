@@ -36,6 +36,8 @@ I am a full-stack engineer. I have experience with both front­end and back­end
 
 ### Find me on 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cisebabatasi/)
+<div class="badge-base LI-profile-badge" data-locale="tr_TR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="cisebabatasi" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/cisebabatasi?trk=profile-badge">Cise Babatasi</a></div>
+              
 
 
 
